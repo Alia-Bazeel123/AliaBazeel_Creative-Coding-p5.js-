@@ -1,6 +1,5 @@
 function setup() {
   createCanvas(400, 400);
-  
 }
 
 function draw() {
@@ -26,6 +25,4 @@ function draw() {
   //line (100,290,150,250);
   //line (100,200,150,250);
   //line (200,100,250,150);
-  
-  
 }
