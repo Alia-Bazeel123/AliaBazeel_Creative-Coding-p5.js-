@@ -6,8 +6,6 @@ img = loadImage("tree.jpg");
 
 }
 
-
-
 function setup() {
 
 createCanvas (400, 400);
